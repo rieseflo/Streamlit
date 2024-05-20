@@ -1,7 +1,7 @@
 # Usage
-# docker build -t rieseflo/streamlit_app .
-# docker push rieseflo/streamlit_app:latest
-# docker run --name streamlit_app -p 9000:8501 -d rieseflo/streamlit_app:latest
+# docker build -t rieseflo/meteorite-display .
+# docker push rieseflo/ meteorite-display:latest
+# docker run --name meteorite-display -p 9000:8501 -d rieseflo/meteorite-display:latest
 
 FROM python:3.10.11-slim
 
