@@ -85,7 +85,7 @@ if not filtered_df.empty:
 # https://share.streamlit.io/ Deployment direkt über GitHub Repo
 
 # create docker image (local)
-# docker build -t meteorite-landings-app .
+# docker build -t meteorite-display .
 
 # upload to dockerhub
 
